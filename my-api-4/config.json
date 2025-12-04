@@ -1,0 +1,13 @@
+{
+  "logging_level": "INFO",
+  "scale_ratio": {
+    "btc": { "base_point": 0.0, "ratio": 1.0 },
+    "eth": { "base_point": 0.0, "ratio": 1.0 },
+    "tao_bittensor": { "base_point": 0.0, "ratio": 1.0 },
+    "default": { "base_point": 0.0, "ratio": 1.0 }
+  },
+  "ip_blacklist": [
+    "111.111.111.111",
+    "80.92.205.166"
+  ]
+}

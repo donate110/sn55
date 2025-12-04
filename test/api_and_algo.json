@@ -1,0 +1,42 @@
+{
+  "sn55_h1": {
+    "api_server_url": "http://127.0.0.1:5500",
+    "extra": { "algo": "algo_02" }
+  },
+  "sn55_h2": {
+    "api_server_url": "http://127.0.0.1:5500",
+    "extra": { "algo": "algo_02" }
+  },
+  "sn55_h3": {
+    "api_server_url": "http://127.0.0.1:5500",
+    "extra": { "algo": "algo_02" }
+  },
+  "sn55_h4": {
+    "api_server_url": "http://127.0.0.1:5500",
+    "extra": { "algo": "algo_02" }
+  },
+  "sn55_h5": {
+    "api_server_url": "http://127.0.0.1:5500",
+    "extra": { "algo": "algo_02" }
+  },
+  "sn55_h6": {
+    "api_server_url": "http://127.0.0.1:5500",
+    "extra": { "algo": "algo_02" }
+  },
+  "sn55_h7": {
+    "api_server_url": "http://127.0.0.1:5500",
+    "extra": { "algo": "algo_02" }
+  },
+  "sn55_h8": {
+    "api_server_url": "http://127.0.0.1:5500",
+    "extra": { "algo": "algo_02" }
+  },
+  "sn55_h9": {
+    "api_server_url": "http://127.0.0.1:5500",
+    "extra": { "algo": "algo_02" }
+  },
+  "sn55_h10": {
+    "api_server_url": "http://127.0.0.1:5500",
+    "extra": { "algo": "algo_02" }
+  }
+}
