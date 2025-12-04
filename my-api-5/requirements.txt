@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+coinmetrics-api-client
+python-dotenv
+httpx
